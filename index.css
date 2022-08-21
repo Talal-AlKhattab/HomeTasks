@@ -1,0 +1,18 @@
+.one{
+    border: 10px solid blue;
+    margin-bottom: 0.3cm;
+    background-color: blue;
+    color: white;
+    ;
+}
+.two{
+    border: 10px solid aqua;
+    margin-bottom: 0.3cm;
+    background-color: aqua;
+    color: white;
+}
+.three{
+    border: 10px solid rgb(123, 185, 185);
+    background-color: rgb(123, 185, 185);
+    color: white;
+}
