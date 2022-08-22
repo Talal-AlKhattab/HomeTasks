@@ -1,0 +1,13 @@
+.line1 a{
+    color: green;
+}
+.line2 a{
+    color: brown;
+    background-color: yellow;
+}
+.list1 a{
+    color: red;
+}
+.list2 {
+    color: blue;
+}

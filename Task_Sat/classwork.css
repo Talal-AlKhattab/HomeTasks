@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(102, 186, 186);
+    
+}
+
+.para1{
+    border:solid 3px black;
+    background-color: white;
+    box-shadow: 5px 5px black ;
+    width:75%;
+    margin-bottom: 2vh;
+}
+
+a{
+    background-color: rgb(255, 105, 105);
+}
+
+.para2{
+    border:dotted 3px red;
+    box-shadow: 5px 5px red ;
+    background-color: white;
+    width:75%;
+    margin-bottom: 2vh;
+}

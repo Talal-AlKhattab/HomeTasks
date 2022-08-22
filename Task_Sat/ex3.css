@@ -1,0 +1,16 @@
+.even{
+    height: 3px  ;
+    width: 3px;
+    border: 1px solid black;
+    background-color: red;
+
+}
+.odd{
+    border: 1px solid black;
+    background-color: blue;
+}
+.seven{
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+}
